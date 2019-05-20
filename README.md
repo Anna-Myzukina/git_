@@ -1,4 +1,5 @@
 # git_
+<h2><a href="https://www.learnenough.com/git-tutorial?single_page=1" target="_blank">Learn Enough Git to Be Dangerous</a></h2>
 The seven rules of a great Git commit message:
 
 
